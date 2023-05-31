@@ -1,1 +1,2 @@
-# E-LaptopShop-Java
+# E-LaptopShop
+Website quản lí laptop, phụ kiện ...
